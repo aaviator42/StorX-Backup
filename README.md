@@ -9,3 +9,8 @@ License: `AGPLv3`
 * Can easily be extended to backup multiple files, simply call the `backupFile($filename, $fileDir)` function for each file.  
 * Errors are logged to the standard configured `error_log` file. 
 * Backup filename format: `example.db` becomes `2024-12-31--24-59-59_example.db`.
+
+
+-----
+
+Documentation updated: `2024-05-17`.
