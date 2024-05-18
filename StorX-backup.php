@@ -1,5 +1,5 @@
 <?php
-// StorX Db File Backup Script
+// StorX DB File Backup Script
 // by aaviator42
 // 2024-05-17, v0.1
 
